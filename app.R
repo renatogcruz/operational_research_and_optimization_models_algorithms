@@ -1,0 +1,2 @@
+runApp(as.character(getwd()))
+

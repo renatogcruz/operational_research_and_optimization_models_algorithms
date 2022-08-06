@@ -1,0 +1,16 @@
+Atenção!
+
+Para que o modelo de programação linear desenvolvido em R funcione,
+é necessário instalar as seguinter bibliotecas:
+
+install.packages("shiny")
+install.packages("lpSolve")
+install.packages("lpSolveAPI")
+install.packages("writexl")
+install.packages("readxl")
+
+1º - Já instaladas as bibliotecas, inicialize "PL_Shiny.Rproj".
+
+2º - Aberto o Rstudio, abra o arquivo "server" e clique em Run app, na aba superior.
+
+3º - Considerando as bibliotecas já instaladas, o framework será aberto.
