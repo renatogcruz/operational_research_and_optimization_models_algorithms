@@ -1,5 +1,3 @@
-# operational_research_and_optimization_models_algorithms
-
 # Operational Research and Optimization Models Algorithms
 
 ## Deploy to GCP
